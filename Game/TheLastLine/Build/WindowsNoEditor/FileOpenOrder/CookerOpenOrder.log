@@ -1,0 +1,621 @@
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Fire_SubUV.uasset" 0
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Fire_Tiled_D.uasset" 1
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 2
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Water_N.uasset" 3
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 4
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 5
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 6
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Smoke_SubUV.uasset" 7
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 8
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 9
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Particles/P_Fire.uasset" 10
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Abilities/CastAbilities/FireBall/FireBall_BP.uasset" 11
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/NPC/EnemyCharacter/Skeleton/Assets/Skeleton_Skeleton.uasset" 12
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/NPC/EnemyCharacter/Skeleton/Assets/Skeleton_Anim_Armature_ArmatureAction.uasset" 13
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/NPC/EnemyCharacter/Skeleton/Assets/Skeleton_Anim_Armature_SkeletonAction.uasset" 14
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 15
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 16
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 17
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 18
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 19
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 20
+"../../../Engine/Content/BasicShapes/Cube.uasset" 21
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/PlayableCharacters/Knight_BP.uasset" 22
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Abilities/CastAbilities/CastAbilities_BP.uasset" 23
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/GameData/VisualProps/RadiusIndicator/M_RadiusIndicator.uasset" 24
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/GameData/VisualProps/RadiusIndicator/MInstance_ActivatingIndicator.uasset" 25
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Abilities/Pickup/Assets/Base.uasset" 26
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Abilities/Pickup/Assets/Image.uasset" 27
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Abilities/Pickup/Assets/AbiltyCard.uasset" 28
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 29
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 30
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_MacroVariation.uasset" 31
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Perlin_Noise_M.uasset" 32
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_Brick_Clay_Old.uasset" 33
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/GameData/VisualProps/RadiusIndicator/Assets/activationRadius.uasset" 34
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Abilities/Pickup/PickUpAbility_BP.uasset" 35
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/GameData/VisualProps/RadiusIndicator/MInstance_DamageIndicator.uasset" 36
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Traps/ActivateAbleProps.uasset" 37
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/UI/Gameplay/Button.uasset" 38
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/UI/Gameplay/ButtonShadow_Texture.uasset" 39
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/UI/Gameplay/GamePlay_WidgetBP.uasset" 40
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/GameData/GameModes/TopDownGameMode.uasset" 41
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Sound/MainMenu/Mainmenu.uasset" 42
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Sound/MainMenu/Mainmenu_Cue.uasset" 43
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/UI/MainMenu/MainMenu_WidgetBP.uasset" 44
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/UI/UserInterfaceHud.uasset" 45
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Controllers/PlayerControllers/CustomPlayerController_BP.uasset" 46
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/GameData/Damages/DamageType_Magic.uasset" 47
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/AbstractCharacter.uasset" 48
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/NPC/EnemyCharacter/Skeleton/Blueprints/SkeletonDefault_BP.uasset" 49
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/NPC/NeutralCharacter/StoneGolemn/Assets/Stone_Golemm_Skeleton.uasset" 50
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/NPC/NeutralCharacter/StoneGolemn/Assets/Animations/Stone_Golemm_Anim_Armature_BackwardWalking_Loop_2.uasset" 51
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/NPC/NeutralCharacter/StoneGolemn/Assets/Animations/StoneGolemBackwardMontage.uasset" 52
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/NPC/NeutralCharacter/StoneGolemn/Assets/Animations/StoneGolemmBackwardWalking_Init1.uasset" 53
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/NPC/NeutralCharacter/StoneGolemn/Assets/Animations/Stone_Golemm_Anim_Armature_ForwardWalk_Loop_2.uasset" 54
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/NPC/NeutralCharacter/StoneGolemn/Assets/Animations/StoneGolemnForwardMontage.uasset" 55
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/NPC/NeutralCharacter/StoneGolemn/Assets/Animations/Stone_Golemm_Anim_Armature_ForwardWalk_Init_1.uasset" 56
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/NPC/NeutralCharacter/StoneGolemn/Assets/Animations/Stone_Golemm_Anim_Armature_TurnToLeft.uasset" 57
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/NPC/NeutralCharacter/StoneGolemn/Assets/Animations/Stone_Golemm_Anim_Armature_TurnToRight.uasset" 58
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 59
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 60
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/GameData/ParticleSystems/M_Dust.uasset" 61
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/GameData/ParticleSystems/P_Dust.uasset" 62
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/GameData/ParticleSystems/P_DustExplosion.uasset" 63
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/StaticMeshes/PressurePlate/Pressure_plate.uasset" 64
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/StaticMeshes/PressurePlate/pressureplate1.uasset" 65
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/Geometry/Meshes/CubeMaterial.uasset" 66
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/Geometry/Meshes/TemplateFloor.uasset" 67
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 68
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/Mannequin/Animations/ThirdPersonJump_End.uasset" 69
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_Basic_Wall.uasset" 70
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Architecture/Pillar_50x500.uasset" 71
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Architecture/Wall_400x300.uasset" 72
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Architecture/Wall_400x400.uasset" 73
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Architecture/Wall_500x500.uasset" 74
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Architecture/Wall_Door_400x400.uasset" 75
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Architecture/Wall_Window_400x400.uasset" 76
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Audio/Light01.uasset" 77
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Audio/Light01_Cue.uasset" 78
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Audio/Light02.uasset" 79
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Audio/Light02_Cue.uasset" 80
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Audio/Explosion01.uasset" 81
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Audio/Explosion02.uasset" 82
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Audio/Explosion_Cue.uasset" 83
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Burst_M.uasset" 84
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Particles/Materials/M_Burst.uasset" 85
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Explosion_SubUV.uasset" 86
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 87
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Particles/Materials/m_flare_01.uasset" 88
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Particles/Materials/M_radial_ramp.uasset" 89
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Particles/P_Explosion.uasset" 90
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 91
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 92
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 93
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Bush_D.uasset" 94
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Bush_N.uasset" 95
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Props/Materials/M_Bush.uasset" 96
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Props/SM_Bush.uasset" 97
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Chair_M.uasset" 98
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Chair_N.uasset" 99
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Props/Materials/M_Chair.uasset" 100
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Props/SM_Couch.uasset" 101
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_Glass.uasset" 102
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Door_M.uasset" 103
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Door_N.uasset" 104
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Props/Materials/M_Door.uasset" 105
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Props/SM_Door.uasset" 106
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Props/Materials/M_MaterialSphere.uasset" 107
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 108
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 109
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 110
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Detail_Rocky_N.uasset" 111
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Rock_Basalt_D.uasset" 112
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_RockMesh_M.uasset" 113
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_RockMesh_N.uasset" 114
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Props/Materials/M_Rock.uasset" 115
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Props/SM_Rock.uasset" 116
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Shelf_M.uasset" 117
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Shelf_N.uasset" 118
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Props/Materials/M_Shelf.uasset" 119
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Props/SM_Shelf.uasset" 120
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_Basic_Floor.uasset" 121
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Props/SM_Stairs.uasset" 122
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Shapes/Shape_Cone.uasset" 123
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Shapes/Shape_Cylinder.uasset" 124
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 125
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Shapes/Shape_Pipe.uasset" 126
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Shapes/Shape_Pipe_180.uasset" 127
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Shapes/Shape_Pipe_90.uasset" 128
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Shapes/Shape_Plane.uasset" 129
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Shapes/Shape_Torus.uasset" 130
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Shapes/Shape_Trim.uasset" 131
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Shapes/Shape_Trim_90_In.uasset" 132
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 133
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Shapes/Shape_TriPyramid.uasset" 134
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Shapes/Shape_Tube.uasset" 135
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Shapes/Shape_Wedge_A.uasset" 136
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Shapes/Shape_Wedge_B.uasset" 137
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Shapes/Shape_WideCapsule.uasset" 138
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/Mannequin/Animations/ThirdPerson_Jump.uasset" 139
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 140
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/Mannequin/Animations/ThirdPersonJump_Start.uasset" 141
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/Mannequin/Animations/ThirdPersonIdle.uasset" 142
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/Mannequin/Animations/ThirdPersonRun.uasset" 143
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/Mannequin/Animations/ThirdPersonWalk.uasset" 144
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 145
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 146
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TopDownBP/Blueprints/M_Cursor_Decal.uasset" 147
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 148
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 149
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 150
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 151
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 152
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 153
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 154
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 155
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 156
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 157
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 158
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 159
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 160
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 161
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 162
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 163
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 164
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/Mannequin/Character/Mesh/SK_Mannequin.uasset" 165
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" 166
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TopDownBP/Blueprints/TopDownController.uasset" 167
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Traps/Devastator/Assets/Gears.uasset" 168
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Traps/Devastator/Assets/Hammer.uasset" 169
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Traps/Devastator/Assets/Stander.uasset" 170
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/UI/Gameplay/InteractionTexture.uasset" 171
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 172
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 173
+"../../../Engine/Content/BasicShapes/Cone.uasset" 174
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 175
+"../../../Engine/Content/BasicShapes/Plane.uasset" 176
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 177
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 178
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 179
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 180
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 181
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 182
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 183
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 184
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 185
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 186
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 187
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 188
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 189
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 190
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 191
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 192
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 193
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 194
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 195
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 196
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 197
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 198
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 199
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 200
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 201
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 202
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 203
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 204
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 205
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 206
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 207
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 208
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 209
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 210
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 211
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 212
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 213
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 214
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 215
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 216
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 217
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 218
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 219
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 220
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 221
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 222
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 223
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 224
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 225
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 226
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 227
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 228
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 229
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 230
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 231
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 232
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 233
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 234
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 235
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 236
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 237
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 238
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 239
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 240
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 241
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 242
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 243
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 244
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 245
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 246
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 247
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 248
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 249
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 250
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 251
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 252
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 253
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 254
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 255
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 256
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 257
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 258
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 259
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 260
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 261
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 262
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 263
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 264
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 265
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 266
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 267
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 268
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 269
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 270
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 271
+"../../../Engine/Content/EngineResources/Black.uasset" 272
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 273
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 274
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 275
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 276
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 277
+"../../../Engine/Content/EngineSounds/Master.uasset" 278
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 279
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 280
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 281
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 282
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 283
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 284
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 285
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 286
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 287
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 288
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 289
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 290
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 291
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 292
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 293
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 294
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 295
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 296
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 297
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 298
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 299
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 300
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 301
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 302
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 303
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 304
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 305
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 306
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 307
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 308
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 309
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 310
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 311
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 312
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 313
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 314
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 315
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 316
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 317
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 318
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 319
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 320
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 321
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 322
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 323
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 324
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 325
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 326
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 327
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 328
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 329
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 330
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Maps/Arena.umap" 331
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/MainMenuCharacter_BP.uasset" 332
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/GameData/SaveGame/SaveGameMode_BP.uasset" 333
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Maps/MainMenu_BuiltData.uasset" 334
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 335
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Maps/MainMenu.umap" 336
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/NPC/EnemyCharacter/Skeleton/Assets/Skeleton_Anim_Armature_ForwardWalk.uasset" 337
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/NPC/EnemyCharacter/Skeleton/Assets/Skeleton_Anim_Armature_Idle.uasset" 338
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/NPC/EnemyCharacter/Skeleton/Assets/Skeleton_Anim_Armature_Run.uasset" 339
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/NPC/EnemyCharacter/Skeleton/Assets/Skeleton_Anim_Armature_WalkBackwards.uasset" 340
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/NPC/EnemyCharacter/Skeleton/Assets/Skeleton_Anim_Armature_WalkLeft.uasset" 341
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/NPC/EnemyCharacter/Skeleton/Assets/Skeleton_Anim_Armature_WalkRight.uasset" 342
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/NPC/EnemyCharacter/Skeleton/Blueprints/Skeleton_Blendspace.uasset" 343
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/NPC/EnemyCharacter/Skeleton/Blueprints/Skeleton_Anim_BP.uasset" 344
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/NPC/EnemyCharacter/Skeleton/Assets/Skeleton_Anim_Armature_Attack_Heavy.uasset" 345
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/NPC/EnemyCharacter/Skeleton/Assets/Skeleton_HeaveyAttack_Montage.uasset" 346
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/NPC/EnemyCharacter/Skeleton/Assets/Skeleton_Anim_Armature_Attack_Stab.uasset" 347
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/NPC/EnemyCharacter/Skeleton/Assets/Skeleton_StabAttack_Montage.uasset" 348
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/NPC/EnemyCharacter/Skeleton/Assets/Material.uasset" 349
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/NPC/EnemyCharacter/Skeleton/Assets/Skeleton_PhysicsAsset.uasset" 350
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/NPC/EnemyCharacter/Skeleton/Assets/Skeleton.uasset" 351
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/NPC/EnemyCharacter/Skeleton/Blueprints/Skeleton_BP.uasset" 352
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 353
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 354
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 355
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 356
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 357
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 358
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 359
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 360
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 361
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Abilities/CastAbilities/BladeRain/Assets/M_AbilitySword.uasset" 362
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Abilities/CastAbilities/BladeRain/Assets/MInstance_White.uasset" 363
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Abilities/CastAbilities/BladeRain/Assets/GlowingSword1.uasset" 364
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Abilities/CastAbilities/BladeRain/Sword_BP.uasset" 365
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Abilities/CastAbilities/BladeRain/BladeRain_Cast_BP.uasset" 366
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/GameData/Damages/DamageType_Physical.uasset" 367
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Traps/SpearTrap/Assets/Base.uasset" 368
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Traps/SpearTrap/Assets/SpearPoint.uasset" 369
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Traps/SpearTrap/Assets/Spear.uasset" 370
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Traps/SpearTrap/Spear_BP.uasset" 371
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Abilities/CastAbilities/Impalement/Impalement_BP.uasset" 372
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Abilities/CastAbilities/WallRaise/Assets/base.uasset" 373
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Abilities/CastAbilities/WallRaise/Assets/Wall_2_80.uasset" 374
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/StaticMeshes/Rocks/rocks_rock_000.uasset" 375
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/StaticMeshes/Rocks/rocks_rock_001.uasset" 376
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/StaticMeshes/Rocks/rocks_rock_002.uasset" 377
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/StaticMeshes/Rocks/rocks_rock_003.uasset" 378
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Abilities/CastAbilities/WallRaise/Wall_BP.uasset" 379
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Abilities/CastAbilities/WallRaise/WallCast_BP.uasset" 380
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Traps/Devastator/Assets/Devastator_Skeleton.uasset" 381
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Traps/Devastator/Assets/Devastator_IdleAnim.uasset" 382
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Traps/Devastator/Devastator_AnimBP.uasset" 383
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Traps/Devastator/Assets/Devastator_ActivateAnim.uasset" 384
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Traps/Devastator/Assets/Devastator_ResetAnim.uasset" 385
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Traps/Devastator/Assets/DevastatorBonesAnimation_PhysicsAsset.uasset" 386
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Traps/Devastator/Assets/Devastator_SkeletalMesh.uasset" 387
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Traps/Devastator/Devastator_BP.uasset" 388
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Wood_Oak_D.uasset" 389
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Wood_Oak_N.uasset" 390
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_Wood_Oak.uasset" 391
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/GameData/VisualProps/RadiusIndicator/Assets/Material.uasset" 392
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/GameData/VisualProps/RadiusIndicator/Assets/BoxRadiusInterface.uasset" 393
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Traps/SpearTrap/Assets/SpearContainer.uasset" 394
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Traps/SpearTrap/SpearTrap_BP.uasset" 395
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Traps/SpinningBlades/Assets/SpinningBladeSkeleton.uasset" 396
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Traps/SpinningBlades/Assets/SpinningBlade_AnimIdle.uasset" 397
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Traps/SpinningBlades/SpinningBlade_AnimBP.uasset" 398
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Traps/SpinningBlades/Assets/SpinningBlade_AnimSpin.uasset" 399
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Traps/SpinningBlades/Assets/Blade_1.uasset" 400
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Traps/SpinningBlades/Assets/Blade_2.uasset" 401
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Traps/SpinningBlades/Assets/Wood.uasset" 402
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Traps/SpinningBlades/Assets/SpinningBladePhysicsAsset.uasset" 403
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Traps/SpinningBlades/Assets/SpinningBlade_SkeletalMesh.uasset" 404
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Traps/SpinningBlades/SpinningBlades_BP.uasset" 405
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Maps/TestingMap_BuiltData.uasset" 406
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/StaticMeshes/Pillar/crackedPillar.uasset" 407
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/StaticMeshes/Pillar/Pillar_colour.uasset" 408
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/StaticMeshes/Pillar/rubble1.uasset" 409
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/Geometry/Meshes/1M_Cube.uasset" 410
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/Geometry/Meshes/1M_Cube_Chamfer.uasset" 411
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Maps/TestingMap.umap" 412
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/NPC/NeutralCharacter/StoneGolemn/Assets/Animations/Stone_Golemm_Anim_Armature_Idle.uasset" 413
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/NPC/NeutralCharacter/StoneGolemn/Assets/Animations/StoneGolemnBlendspace.uasset" 414
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/NPC/NeutralCharacter/StoneGolemn/Blueprint/StoneGolemn_AnimBP.uasset" 415
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/NPC/NeutralCharacter/StoneGolemn/Assets/Animations/Stone_Golemm_Anim_Armature_Stomp.uasset" 416
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/NPC/NeutralCharacter/StoneGolemn/Assets/Animations/StoneGolemnStompMontage.uasset" 417
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/NPC/NeutralCharacter/StoneGolemn/Assets/Material_001.uasset" 418
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/NPC/NeutralCharacter/StoneGolemn/Assets/Stone_Golemm_PhysicsAsset.uasset" 419
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/NPC/NeutralCharacter/StoneGolemn/Assets/Stone_Golemm.uasset" 420
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Characters/NPC/NeutralCharacter/StoneGolemn/Blueprint/StoneGolemn_BP.uasset" 421
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/Maps/Tutorial.umap" 422
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 423
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 424
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 425
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 426
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 427
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 428
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 429
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 430
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Blueprints/Assets/Skybox.uasset" 431
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 432
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Blueprints/BP_LightStudio.uasset" 433
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 434
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_AssetPlatform.uasset" 435
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 436
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 437
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 438
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 439
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 440
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 441
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 442
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Architecture/SM_AssetPlatform.uasset" 443
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Maps/Advanced_Lighting.umap" 444
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 445
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 446
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 447
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Metal_Gold_N.uasset" 448
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 449
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Metal_Copper_D.uasset" 450
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_Metal_Copper.uasset" 451
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Statue_M.uasset" 452
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Statue_N.uasset" 453
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Props/Materials/M_StatueGlass.uasset" 454
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Architecture/Floor_400x400.uasset" 455
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Audio/Starter_Birds01.uasset" 456
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Audio/Starter_Wind05.uasset" 457
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Audio/Starter_Wind06.uasset" 458
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Audio/Starter_Background_Cue.uasset" 459
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Props/SM_Chair.uasset" 460
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Props/Materials/M_Statue.uasset" 461
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Props/SM_Statue.uasset" 462
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_TableRound_M.uasset" 463
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_TableRound_N.uasset" 464
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Props/Materials/M_TableRound.uasset" 465
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Props/SM_TableRound.uasset" 466
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Maps/Minimal_Default.umap" 467
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Audio/Fire01.uasset" 468
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Audio/Fire01_Cue.uasset" 469
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 470
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Audio/Smoke01.uasset" 471
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Audio/Smoke01_Cue.uasset" 472
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Particles/P_Smoke.uasset" 473
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 474
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Audio/Fire_Sparks01.uasset" 475
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 476
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Spark_Core.uasset" 477
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Particles/Materials/M_Spark.uasset" 478
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Particles/P_Sparks.uasset" 479
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 480
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Audio/Steam01.uasset" 481
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Audio/Steam01_Cue.uasset" 482
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Particles/P_Steam_Lit.uasset" 483
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 484
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Lamp_M.uasset" 485
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Lamp_N.uasset" 486
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Props/Materials/M_Lamp.uasset" 487
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Props/SM_Lamp_Ceiling.uasset" 488
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 489
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Props/SM_Lamp_Wall.uasset" 490
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 491
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Maps/StarterMap_BuiltData.uasset" 492
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 493
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 494
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 495
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 496
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 497
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 498
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 499
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 500
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 501
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_Brick_Clay_New.uasset" 502
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 503
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 504
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 505
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 506
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 507
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 508
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 509
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 510
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 511
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 512
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 513
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 514
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 515
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 516
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 517
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 518
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 519
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Gradinet_01.uasset" 520
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 521
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_CobbleStone_Rough.uasset" 522
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 523
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 524
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 525
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 526
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Concrete_Grime_D.uasset" 527
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Metal_Rust_N.uasset" 528
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_Concrete_Grime.uasset" 529
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Concrete_Panels_D.uasset" 530
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Concrete_Panels_N.uasset" 531
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_Concrete_Panels.uasset" 532
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Concrete_Poured_D.uasset" 533
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Concrete_Poured_N.uasset" 534
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_Concrete_Poured.uasset" 535
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 536
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 537
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 538
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 539
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_Concrete_Tiles.uasset" 540
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Ground_Grass_D.uasset" 541
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Ground_Grass_N.uasset" 542
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_Ground_Grass.uasset" 543
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Ground_Gravel_D.uasset" 544
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Ground_Gravel_N.uasset" 545
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_Ground_Gravel.uasset" 546
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_ground_Moss_D.uasset" 547
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Ground_Moss_N.uasset" 548
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_Ground_Moss.uasset" 549
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_Metal_Chrome.uasset" 550
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Metal_Gold_D.uasset" 551
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_Metal_Gold.uasset" 552
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Metal_Rust_D.uasset" 553
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_Metal_Rust.uasset" 554
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Metal_Steel_D.uasset" 555
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Metal_Steel_N.uasset" 556
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_Metal_Steel.uasset" 557
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Rock_Basalt_N.uasset" 558
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_Rock_Basalt.uasset" 559
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 560
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 561
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 562
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_Rock_Sandstone.uasset" 563
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Rock_Slate_D.uasset" 564
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Rock_Slate_N.uasset" 565
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_Rock_Slate.uasset" 566
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Checker_Noise_M.uasset" 567
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Single_Tile_N.uasset" 568
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Tech_Dot_M.uasset" 569
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Tech_Dot_N.uasset" 570
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 571
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 572
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 573
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 574
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 575
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Tech_Panel_M.uasset" 576
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Tech_Panel_N.uasset" 577
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_Tech_Panel.uasset" 578
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_Water_Lake.uasset" 579
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Water_M.uasset" 580
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_Water_Ocean.uasset" 581
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 582
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 583
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 584
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 585
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 586
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 587
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Wood_Pine_D.uasset" 588
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Wood_Pine_N.uasset" 589
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_Wood_Pine.uasset" 590
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Wood_Walnut_D.uasset" 591
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Wood_Walnut_N.uasset" 592
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Materials/M_Wood_Walnut.uasset" 593
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Architecture/Wall_400x200.uasset" 594
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Architecture/Wall_Door_400x300.uasset" 595
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Architecture/Wall_Window_400x300.uasset" 596
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Audio/Collapse01.uasset" 597
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Audio/Collapse02.uasset" 598
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Audio/Collapse_Cue.uasset" 599
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Audio/Starter_Music01.uasset" 600
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Audio/Starter_Music_Cue.uasset" 601
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Dust_Particle_D.uasset" 602
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 603
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Particles/P_Ambient_Dust.uasset" 604
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Props/MaterialSphere.uasset" 605
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Frame_M.uasset" 606
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Textures/T_Frame_N.uasset" 607
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Props/Materials/M_Frame.uasset" 608
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Props/SM_CornerFrame.uasset" 609
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Props/SM_DoorFrame.uasset" 610
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Props/SM_GlassWindow.uasset" 611
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Props/SM_PillarFrame.uasset" 612
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Props/SM_PillarFrame300.uasset" 613
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Props/SM_WindowFrame.uasset" 614
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Shapes/Shape_Cube.uasset" 615
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Shapes/Shape_QuadPyramid.uasset" 616
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Shapes/Shape_Sphere.uasset" 617
+"../../../../../../Documents/Tukkies/2019/IMY 300/Project/Game/Game/TheLastLine/Content/TemplateStuff/StarterContent/Maps/StarterMap.umap" 618
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 619
+"../../../Engine/Content/Maps/Entry.umap" 620
