@@ -3,8 +3,9 @@
 	"EngineAssociation": "4.21",
 	"Category": "",
 	"Description": "",
+	"Enterprise": true,
 	"TargetPlatforms": [
-		"WindowsNoEditor"
-	],
-	"Enterprise": true
+		"WindowsNoEditor",
+		"HTML5"
+	]
 }
