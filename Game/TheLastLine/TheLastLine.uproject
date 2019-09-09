@@ -1,10 +1,11 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.21",
+	"EngineAssociation": "{B5F2C46A-48D8-39C6-216B-50860D5AB2C6}",
 	"Category": "",
 	"Description": "",
+	"Enterprise": true,
 	"TargetPlatforms": [
-		"WindowsNoEditor"
-	],
-	"Enterprise": true
+		"WindowsNoEditor",
+		"HTML5"
+	]
 }
